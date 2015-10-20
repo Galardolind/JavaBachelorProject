@@ -13,3 +13,5 @@ The mails gathered will be added to the database and then you can use the softwa
 Used by the software : Java,MongoDB,SWING
 
 Tests : jUnit and Mockito.
+
+Caution: This software is forbidden in several countries in Europe. You may be blacklisted by your provider if you wrongly use their SMTP (too much, too fast etc..).
