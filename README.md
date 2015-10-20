@@ -13,5 +13,3 @@ The mails gathered will be added to the database and then you can use the softwa
 Used by the software : Java,MongoDB,SWING
 
 Tests : jUnit and Mockito.
-
-/!\ Caution : use this software is forbidden into several countries. Plus you can be blacklisted by your provider if you wrongly use their SMTP (too much, too fast etc..).
